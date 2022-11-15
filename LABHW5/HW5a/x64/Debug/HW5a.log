@@ -1,0 +1,6 @@
+﻿  HW5a.c
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW5\HW5a\HW5a.c(55,16): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW5\HW5a\HW5a.c(55,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW5\HW5a\HW5a.c(55,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW5\HW5a\HW5a.c(55,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  HW5a.vcxproj -> C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW5\x64\Debug\HW5a.exe

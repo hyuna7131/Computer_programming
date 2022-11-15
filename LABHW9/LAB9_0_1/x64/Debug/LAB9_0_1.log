@@ -1,0 +1,2 @@
+﻿  LAB9_0_1.c
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW9\LAB9_0_1\LAB9_0_1.c(14): error C4700: 초기화되지 않은 'ch' 지역 변수를 사용했습니다.

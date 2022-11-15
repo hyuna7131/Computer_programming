@@ -1,0 +1,4 @@
+﻿  LAB2(재귀).c
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW7\LAB2(재귀)\LAB2(재귀).c(7,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW7\LAB2(재귀)\LAB2(재귀).c(18,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  LAB2(재귀).vcxproj -> C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW7\x64\Debug\LAB2(재귀).exe

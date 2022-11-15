@@ -1,0 +1,4 @@
+﻿  LAB16_3.c
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW16\LAB16_3\LAB16_3.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW16\LAB16_3\LAB16_3.c(8,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  LAB16_3.vcxproj -> C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW16\x64\Debug\LAB16_3.exe

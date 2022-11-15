@@ -1,0 +1,3 @@
+﻿  프로젝트집합(PREP).c
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW4\프로젝트집합(PREP)\프로젝트집합(PREP).c(65,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  프로젝트집합(PREP).vcxproj -> C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\LABHW4\x64\Debug\프로젝트집합(PREP).exe
